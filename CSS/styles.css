@@ -237,7 +237,7 @@ h5{
 #logos{
     display: flex;
 
-    justify-content:center
+    justify-content:flex-end
    
 }
  
